@@ -4,3 +4,6 @@
 # 屏蔽题目数据
 *.in
 *.out
+
+# vscode
+.vscode
